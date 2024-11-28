@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\erwin\\Downloads\\40 Th\\ppbo-ithb-sp-2024-modul-5-dan-6-main\\lib\\jdatepicker-1.3.4.jar",
+        "c:\\Users\\erwin\\Downloads\\40 Th\\ppbo-ithb-sp-2024-modul-5-dan-6-main\\lib\\flatlaf-3.4.1.jar",
+        "c:\\Users\\erwin\\Downloads\\40 Th\\ppbo-ithb-sp-2024-modul-5-dan-6-main\\lib\\jcalendar-1.4.jar"
+    ]
+}
